@@ -1,0 +1,1 @@
+import requests\n\ncity = input('Enter city: ')\nurl = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid=YOUR_API_KEY&units=metric'\nresponse = requests.get(url)\nprint(response.json())
