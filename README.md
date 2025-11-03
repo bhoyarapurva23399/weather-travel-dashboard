@@ -31,17 +31,18 @@ This project demonstrates the use of **APIs, Python scripting, and interactive d
 
 ## 🖼️ Screenshots
 
-### ▶️ User Interface
+### ▶️ User Interface  
 ![UI Screenshot](screenshots/image1.jpg)
 
-### 🌤️ Example Output
+### 🌤️ Example Output  
 ![Output Screenshot](screenshots/image2.jpg)
 
-### ⚙️ App Running
+### ⚙️ App Running  
 ![App Running Screenshot](screenshots/image3.jpg)
 
-### 📁 Project Structure
+### 📁 Project Structure  
 ![Structure Screenshot](screenshots/image4.jpg)
+
 
 ---
 
