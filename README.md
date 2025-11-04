@@ -31,16 +31,16 @@ This project demonstrates the use of **APIs, Python scripting, and interactive d
 ## 🖼️ Screenshots  
 
 ### ▶️ User Interface  
-![UI Screenshot](https://github.com/bhoyarapurva23399/weather-travel-dashboard/raw/main/screenshots/image1.jpg)
+![UI Screenshot](https://github.com/bhoyarapurva23399/weather-travel-dashboard/blob/main/screenshots/image%201.jpg?raw=true)
 
 ### ☁️ Example Output  
-![Output Screenshot](https://github.com/bhoyarapurva23399/weather-travel-dashboard/raw/main/screenshots/image2.jpg)
+![Output Screenshot](https://github.com/bhoyarapurva23399/weather-travel-dashboard/blob/main/screenshots/image%202.jpg?raw=true)
 
 ### ⚙️ App Running  
-![App Running Screenshot](https://github.com/bhoyarapurva23399/weather-travel-dashboard/raw/main/screenshots/image3.jpg)
+![App Running Screenshot](https://github.com/bhoyarapurva23399/weather-travel-dashboard/blob/main/screenshots/image%203.jpg?raw=true)
 
 ### 📁 Project Structure  
-![Structure Screenshot](https://github.com/bhoyarapurva23399/weather-travel-dashboard/raw/main/screenshots/image4.jpg)
+![Structure Screenshot](https://github.com/bhoyarapurva23399/weather-travel-dashboard/blob/main/screenshots/image%204.jpg?raw=true)
 
 
 
